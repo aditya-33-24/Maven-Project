@@ -9,6 +9,7 @@ public class CampaignModule {
 	@Test
 public void createCampaign() {
 	WebDriver driver=new ChromeDriver();
+	driver.manage().window().maximize();
 	driver.get("https://www.fb.com");
 	Reporter.log(driver.getTitle(),true);
 //	Reporter.log("Campaign has been created",true);
