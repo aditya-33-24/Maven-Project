@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Campaign has been created]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-26T10:42:49 IST" name="Suite" finished-at="2025-06-26T10:42:50 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2025-06-26T10:42:49 IST" name="Test" finished-at="2025-06-26T10:42:50 IST" duration-ms="98">
+      <class name="testscript.CampaignModule">
+        <test-method signature="createCampaign()[pri:0, instance:testscript.CampaignModule@6f03482]" started-at="2025-06-26T10:42:50 IST" name="createCampaign" finished-at="2025-06-26T10:42:50 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Campaign has been created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCampaign -->
+      </class> <!-- testscript.CampaignModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
